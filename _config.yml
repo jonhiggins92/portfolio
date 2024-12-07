@@ -20,7 +20,7 @@
 
 title: "Jonathan's Portfolio"
 description: "A professional portfolio showcasing my skills, projects, and journey into DevOps."
-baseurl: "" # Leave blank unless hosting in a subdirectory
+baseurl: "/portfolio" # Leave blank unless hosting in a subdirectory
 url: "https://jonhiggins92.github.io" # Update when deploying to GitHub Pages
 
 # Social Links
