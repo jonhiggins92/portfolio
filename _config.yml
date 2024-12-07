@@ -39,7 +39,7 @@ social_links:
 
 
 # Build settings
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/midnight
 markdown: kramdown
 plugins:
   - jekyll-feed
