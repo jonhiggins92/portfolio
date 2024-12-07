@@ -39,7 +39,7 @@ social_links:
 
 
 # Build settings
-remote_theme: pages-themes/midnight
+theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-feed
